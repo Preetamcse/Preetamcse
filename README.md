@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preetamcse" alt="preetamcse" /></a> </p>
 
-- 💬 Ask me about **Full Stack ,Desktop applications, Web applications, and .NET development**
+- 💬 Ask me about  **C++/C# and MERN full-stack development**
+
+
 
 - 📫 How to reach me **preetamcse@gmail.com**
 
