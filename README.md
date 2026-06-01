@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preetamcse" alt="preetamcse" /></a> </p>
 
-- 💬 Ask me about  **C++/C# and MERN full-stack development**
+- 💬 Ask me about  **C++/C# full-stack development**
 
 
 
